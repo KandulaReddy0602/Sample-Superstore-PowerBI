@@ -68,7 +68,7 @@ Identified the top-performing products based on sales.
 
 ## 🖼️ Dashboard Preview
 
-![Sales & Profit Analysis Dashboard](screenshots/dashboard.png)
+![Sales & Profit Analysis Dashboard](dashboard.png)
 
 ---
 
